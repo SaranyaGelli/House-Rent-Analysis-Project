@@ -63,6 +63,3 @@ Bar Plot of Rent by City and Area Type: The code generates a bar plot to compare
 
 The code provides various visualizations and insights into the house rental market. By running the code, you can explore the dataset, analyze rent trends, compare cities, and understand tenant preferences.
 
-Feel free to modify the code or dataset to suit your needs and further enhance the analysis.
-
-Note: Ensure that you have the necessary data in the House_Rent_Dataset.csv file in the correct format before running the code.
